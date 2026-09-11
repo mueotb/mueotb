@@ -1,6 +1,9 @@
 @font-face {
     font-family: "Font_R";
     src: url("font/Eulyoo1945-Regular.ttf") format("truetype");
+}
+
+@font-face {
     font-family: "Font_SB";
     src: url("font/Eulyoo1945-SemiBold.ttf") format("truetype");
 }
