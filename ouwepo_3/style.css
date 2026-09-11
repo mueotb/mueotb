@@ -1,0 +1,39 @@
+section {
+    text-align: center;
+    color: red;
+}
+
+.A{
+    color: red;
+    background-color: greenyellow;
+    /*
+    width: 200px;
+    height: 500px;
+    */
+    width: 30vw;
+    height: 100vh;
+    /*position: fixed;*/
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.B{
+    color: red;
+    background-color: skyblue;
+    width: 55vw;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    left: 30vw;
+}
+
+.C{
+    color: red;
+    background-color: goldenrod;
+    width: 15vw;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    left: 85vw;
+}
